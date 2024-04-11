@@ -4,7 +4,7 @@ Acesso ao código via Google Colab - [Click Here](https://colab.research.google.
 
 ## Relatório
 
-OBS: Antes de começar a esmiuçar a base de dados, foram feitos uma pré-análise dos dados utilizando o pivot table do Excel, e também a biblioteca ydata-profiling sendo assim, já iniciei a exploração via python com objetivos fixados. Também foram feitas outras análises via Python que foram removidas, por não demonstrarem nada relevante para a exploração.
+OBS: Antes de começar a esmiuçar a base de dados, foram feitos uma pré-análise dos dados utilizando o pivot table do Excel, e também a biblioteca ydata-profiling. Sendo assim já iniciei a exploração via python com objetivos fixados. Também foram feitas outras análises via Python que foram removidas, por não demonstrarem nada relevante para a exploração.
 
 <hr>
 
